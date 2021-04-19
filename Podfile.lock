@@ -5,7 +5,7 @@ DEPENDENCIES:
   - AEXML
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - AEXML
 
 SPEC CHECKSUMS:
@@ -13,4 +13,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 81d0fa8cc32d788bcf2e288f5ffda454a307820a
 
-COCOAPODS: 1.7.5
+COCOAPODS: 1.10.1
